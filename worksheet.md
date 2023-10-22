@@ -52,14 +52,14 @@ Hello, 99.  You are 0 years, 0 weeks, and 0 days old today.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size:2 byte
+  range:-32768 to 32767
 * `int`
-  size: 2 bytes.
-  range: -32768.to 32767.
+  size: 4 bytes.
+  range: -2147483648 to 2147483647
 * `long int`
-  size: 
-  range:
+  size: 4 bytes
+  range:-2147483648 to  2147483647
 * `float`
   size: 4 bytes.
   range: 7 digits of accuracy
